@@ -90,7 +90,7 @@ const Header = () => {
 
           {/* TAGLINE */}
           <p className="mt-3 text-base text-gray-600 text-center lg:text-right">
-            RUN
+            Best In Class Upholstery Nester Software
           </p>
 
         </div>

@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Upholstery Nester
             </Link>
             <p className="text-gray-300 max-w-md">
-              The REACH Upholstery Nester
+              Best In Class Upholstery Nester Software
             </p>
 
 
