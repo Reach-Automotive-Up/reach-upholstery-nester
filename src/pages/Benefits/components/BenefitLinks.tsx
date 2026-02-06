@@ -18,7 +18,7 @@ const BenefitLinks = () => {
         </h2>
 
         <p className="text-center text-lg text-gray-600 max-w-3xl mx-auto mb-12">
-          Upholstery Nester
+          Best In Class Upholstery Nester Software
         </p>
 
 
